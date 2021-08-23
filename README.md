@@ -5,3 +5,4 @@ I had created the Dataware house, for the database.
 From scratch in other words, from ER-Diagram (MS Visio) to SSRS report(Visiual Studio) <br>
 And PowerBi for Businness reports.
 l8 is a SQL script - WonderfullWheels.
+lab8 is the sales report created using the PowerBI
