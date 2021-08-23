@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lab8_SSRS_Ronak", "Lab8_SSRS_Ronak\Lab8_SSRS_Ronak.rptproj", "{2BCE2996-C82C-4864-8E3B-FE65ED35D27E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BCE2996-C82C-4864-8E3B-FE65ED35D27E}.Debug|Default.ActiveCfg = Debug
+		{2BCE2996-C82C-4864-8E3B-FE65ED35D27E}.Debug|Default.Build.0 = Debug
+		{2BCE2996-C82C-4864-8E3B-FE65ED35D27E}.Debug|Default.Deploy.0 = Debug
+		{2BCE2996-C82C-4864-8E3B-FE65ED35D27E}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{2BCE2996-C82C-4864-8E3B-FE65ED35D27E}.DebugLocal|Default.Build.0 = DebugLocal
+		{2BCE2996-C82C-4864-8E3B-FE65ED35D27E}.Release|Default.ActiveCfg = Release
+		{2BCE2996-C82C-4864-8E3B-FE65ED35D27E}.Release|Default.Build.0 = Release
+		{2BCE2996-C82C-4864-8E3B-FE65ED35D27E}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {883A920F-300A-4C94-8839-572DF611F2AC}
+	EndGlobalSection
+EndGlobal
