@@ -1,8 +1,7 @@
 
 /*=====================================================================*/
-/* Lab 8 – Database Warehouse (combination of Lab 5, 6 and 7)          */
-/* Name: Ronak											               */
-/* Student ID: 8700202                          				       */
+/* Lab 8 â€“ Database and Warehouse                                      */
+/* Author- Ronak Patel                   			       */
 /*=====================================================================*/
 
 
