@@ -4,4 +4,4 @@ The firm who sell used and new cars, Employee management, Tracking their commisi
 I had created the Dataware house, for the database.
 From scratch in other words, from ER-Diagram (MS Visio) to SSRS report(Visiual Studio) <br>
 And PowerBi for Businness reports.
-
+l8 is a SQL script - WonderfullWheels.
